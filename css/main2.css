@@ -1,0 +1,47 @@
+.cf{
+	clear: both;
+}
+
+.container
+{
+	max-width: 800px; margin: 10px auto; 
+}
+
+.block1  .blue-name{
+	color: blue;
+}
+
+.container .block2{
+	 border-bottom: 2px solid black; 
+}
+.container .block2 .block2-left{
+	float: left; width: 400px;
+}
+.container .block2 .block2-right {
+	float: right; width: 400px;
+}
+
+
+
+.comp-pro{
+	max-width: 800px;border-bottom: 2px solid black;
+}
+.comp-pro .comp-pro1 {
+	 width: 400px; float: left;
+
+}
+.comp-pro .comp-pro2 {
+	float: right; width: 400px; 
+}
+
+
+.comp-pro3  .compro1 {
+width: 266px; display: inline-block;
+}
+
+.comp-pro3  .compro2 {
+	float: 	left; width: 266px;
+}
+.comp-pro3  .compro3{
+	float: 	left; width: 266px;
+}
